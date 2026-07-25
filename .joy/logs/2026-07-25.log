@@ -35,3 +35,4 @@
 2026-07-25T15:41:49.012Z CALC-000C-15 item.status_changed "in-progress -> review" [horst.schwarz@joydev.com]
 2026-07-25T15:41:53.829Z CALC-0003-FA item.status_changed "new -> in-progress" [horst.schwarz@joydev.com]
 2026-07-25T15:41:56.722Z CALC-0006-B3 item.status_changed "new -> in-progress" [horst.schwarz@joydev.com]
+2026-07-25T15:41:59.204Z CALC-0009-D0 item.status_changed "open -> in-progress" [horst.schwarz@joydev.com]
