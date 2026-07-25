@@ -1,7 +1,7 @@
 id: CALC-0005-F4
 title: Set up expression parser
 type: task
-status: closed
+status: open
 priority: critical
 parent: CALC-0001-C9
 assignees:
@@ -12,7 +12,7 @@ capabilities:
 effort: 3
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:31:48.830545694Z
-updated: 2026-07-25T15:47:50.768141368Z
+updated: 2026-07-25T23:05:58.527202Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T15:31:57.380736087Z
@@ -25,13 +25,8 @@ history:
   by: horst.schwarz@joydev.com
 - date: 2026-07-25T15:47:50.741904034Z
   by: horst.schwarz@joydev.com
-comments:
-- author: horst.schwarz@joydev.com
-  date: 2026-07-25T15:31:57.410411466Z
-  text: Parser v1 done, precedence and parentheses covered.
-- author: horst.schwarz@joydev.com
-  date: 2026-07-25T15:47:50.768140838Z
-  text: Nice structure. Please add a test for nested parentheses before we close this.
+- date: 2026-07-25T23:05:58.527202Z
+  by: horst.schwarz@joydev.com
 description: |-
   Tokenize the input, build an AST with correct operator precedence and parentheses, then evaluate on 64-bit floats. Overflow and division by zero must surface as errors, never as crashes.
 
@@ -39,3 +34,10 @@ description: |-
   - [x] Precedence climbing
   - [x] Parentheses
   - [ ] Friendly error messages
+comments:
+- author: horst.schwarz@joydev.com
+  date: 2026-07-25T15:31:57.410411466Z
+  text: Parser v1 done, precedence and parentheses covered.
+- author: horst.schwarz@joydev.com
+  date: 2026-07-25T15:47:50.768140838Z
+  text: Nice structure. Please add a test for nested parentheses before we close this.
