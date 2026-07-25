@@ -7,7 +7,7 @@ capabilities:
 - jobs
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:31:57.832680554Z
-updated: 2026-07-25T16:03:22.934475582Z
+updated: 2026-07-25T16:03:41.003535902Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T16:02:13.558274953Z
@@ -28,3 +28,7 @@ job:
   window:
     not_before: 2026-07-22T00:00:00Z
     deadline: 2026-07-31T00:00:00Z
+comments:
+- author: horst.schwarz@joydev.com
+  date: 2026-07-25T16:03:41.003535083Z
+  text: '@peter please approve'
