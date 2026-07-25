@@ -1,0 +1,18 @@
+id: CALC-0007-EC
+title: Division by zero crashes the app
+type: bug
+status: in-progress
+priority: critical
+parent: CALC-0001-C9
+assignees:
+- member: horst.schwarz@joydev.com
+capabilities:
+- implement
+- review
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:39:41.423865408Z
+updated: 2026-07-25T15:40:01.776679290Z
+updated_by: horst.schwarz@joydev.com
+history:
+- date: 2026-07-25T15:40:01.776679290Z
+  by: horst.schwarz@joydev.com
