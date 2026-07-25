@@ -11,8 +11,18 @@ capabilities:
 - review
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:39:41.423865408Z
-updated: 2026-07-25T15:40:01.776679290Z
+updated: 2026-07-25T15:47:50.848169465Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T15:40:01.776679290Z
   by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:47:50.822188375Z
+  by: horst.schwarz@joydev.com
+description: |-
+  Steps to reproduce: enter 5/0 and press equals. The app terminates without a message.
+
+  Expected: the result line shows a friendly "Cannot divide by zero" and the input stays editable.
+comments:
+- author: horst.schwarz@joydev.com
+  date: 2026-07-25T15:47:50.848168902Z
+  text: Reproduced on the desktop build. The evaluator lacks a zero check before the division op.

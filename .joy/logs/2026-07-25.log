@@ -36,3 +36,8 @@
 2026-07-25T15:41:53.829Z CALC-0003-FA item.status_changed "new -> in-progress" [horst.schwarz@joydev.com]
 2026-07-25T15:41:56.722Z CALC-0006-B3 item.status_changed "new -> in-progress" [horst.schwarz@joydev.com]
 2026-07-25T15:41:59.204Z CALC-0009-D0 item.status_changed "open -> in-progress" [horst.schwarz@joydev.com]
+2026-07-25T15:47:50.745Z CALC-0005-F4 item.updated [horst.schwarz@joydev.com]
+2026-07-25T15:47:50.772Z CALC-0005-F4 comment.added [horst.schwarz@joydev.com]
+2026-07-25T15:47:50.799Z CALC-0002-B3 item.updated [horst.schwarz@joydev.com]
+2026-07-25T15:47:50.826Z CALC-0007-EC item.updated [horst.schwarz@joydev.com]
+2026-07-25T15:47:50.852Z CALC-0007-EC comment.added [horst.schwarz@joydev.com]

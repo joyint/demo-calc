@@ -6,17 +6,23 @@ priority: high
 parent: CALC-0001-C9
 deps:
 - CALC-0005-F4
-milestone: CALC-MS-01
+milestone: CALC-MS-01-39
 capabilities:
 - plan
 - implement
 - review
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:31:48.731585175Z
-updated: 2026-07-25T15:31:57.644944252Z
+updated: 2026-07-25T15:47:50.795555972Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T15:31:57.533128638Z
   by: horst.schwarz@joydev.com
 - date: 2026-07-25T15:31:57.644944252Z
   by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:47:50.795555972Z
+  by: horst.schwarz@joydev.com
+description: |-
+  As a user I can type 12+7-3 and get 16. Covers chained operations and unary minus.
+
+  Depends on the expression parser; the UI part is just wiring the input field to the evaluator.
