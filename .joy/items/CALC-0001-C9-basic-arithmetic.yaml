@@ -1,0 +1,13 @@
+id: CALC-0001-C9
+title: Basic arithmetic
+type: epic
+status: new
+priority: medium
+capabilities:
+- conceive
+- plan
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:31:48.698714605Z
+updated: 2026-07-25T15:31:48.698714605Z
+updated_by: horst.schwarz@joydev.com
+history: []

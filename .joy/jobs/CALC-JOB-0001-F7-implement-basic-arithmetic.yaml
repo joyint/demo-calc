@@ -1,0 +1,16 @@
+id: CALC-JOB-0001-F7
+title: Implement basic arithmetic
+type: job
+status: new
+priority: medium
+capabilities:
+- jobs
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:31:57.832680554Z
+updated: 2026-07-25T15:31:57.832680554Z
+updated_by: horst.schwarz@joydev.com
+history: []
+job:
+  scope:
+  - CALC-0002-B3
+  - CALC-0003-FA

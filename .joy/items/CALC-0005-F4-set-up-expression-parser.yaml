@@ -1,0 +1,27 @@
+id: CALC-0005-F4
+title: Set up expression parser
+type: task
+status: review
+priority: critical
+parent: CALC-0001-C9
+assignees:
+- member: horst.schwarz@joydev.com
+milestone: CALC-MS-01
+capabilities:
+- implement
+effort: 3
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:31:48.830545694Z
+updated: 2026-07-25T15:31:57.755455719Z
+updated_by: horst.schwarz@joydev.com
+history:
+- date: 2026-07-25T15:31:57.380736087Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:31:57.448940798Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:31:57.755455719Z
+  by: horst.schwarz@joydev.com
+comments:
+- author: horst.schwarz@joydev.com
+  date: 2026-07-25T15:31:57.410411466Z
+  text: Parser v1 done, precedence and parentheses covered.

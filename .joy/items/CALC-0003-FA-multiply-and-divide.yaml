@@ -1,0 +1,18 @@
+id: CALC-0003-FA
+title: Multiply and divide
+type: story
+status: new
+priority: high
+parent: CALC-0001-C9
+milestone: CALC-MS-01
+capabilities:
+- plan
+- implement
+- review
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:31:48.762215556Z
+updated: 2026-07-25T15:31:57.703075225Z
+updated_by: horst.schwarz@joydev.com
+history:
+- date: 2026-07-25T15:31:57.703075225Z
+  by: horst.schwarz@joydev.com

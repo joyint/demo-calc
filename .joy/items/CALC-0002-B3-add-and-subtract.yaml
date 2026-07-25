@@ -1,0 +1,22 @@
+id: CALC-0002-B3
+title: Add and subtract
+type: story
+status: new
+priority: high
+parent: CALC-0001-C9
+deps:
+- CALC-0005-F4
+milestone: CALC-MS-01
+capabilities:
+- plan
+- implement
+- review
+created_by: horst.schwarz@joydev.com
+created: 2026-07-25T15:31:48.731585175Z
+updated: 2026-07-25T15:31:57.644944252Z
+updated_by: horst.schwarz@joydev.com
+history:
+- date: 2026-07-25T15:31:57.533128638Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:31:57.644944252Z
+  by: horst.schwarz@joydev.com
