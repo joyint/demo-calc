@@ -4,14 +4,17 @@ type: story
 status: open
 priority: medium
 parent: CALC-0001-C9
+milestone: CALC-MS-02
 capabilities:
 - plan
 - implement
 - review
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:39:41.460835653Z
-updated: 2026-07-25T15:40:01.662877606Z
+updated: 2026-07-25T15:41:32.017598944Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T15:40:01.662877606Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:41:32.017598944Z
   by: horst.schwarz@joydev.com

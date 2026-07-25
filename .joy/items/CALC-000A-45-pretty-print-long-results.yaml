@@ -6,13 +6,16 @@ priority: medium
 parent: CALC-0001-C9
 assignees:
 - member: horst.schwarz@joydev.com
+milestone: CALC-MS-02
 capabilities:
 - implement
 effort: 2
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:39:41.531789772Z
-updated: 2026-07-25T15:40:01.805186025Z
+updated: 2026-07-25T15:41:32.076188248Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T15:40:01.805186025Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-25T15:41:32.076188248Z
   by: horst.schwarz@joydev.com
