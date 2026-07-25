@@ -4,4 +4,7 @@ language: en
 members:
   horst.schwarz@joydev.com:
     capabilities: all
+platform:
+  verify_key: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b26
+  registered: 2026-07-25T15:39:23.955992886Z
 created: 2026-07-25T15:29:55.436372834Z
