@@ -7,15 +7,18 @@ capabilities:
 - jobs
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:31:57.832680554Z
-updated: 2026-07-25T16:02:14.458194923Z
+updated: 2026-07-25T16:02:21.829993071Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-25T16:02:13.558274953Z
   by: horst.schwarz@joydev.com
 - date: 2026-07-25T16:02:14.458194923Z
   by: horst.schwarz@joydev.com
+- date: 2026-07-25T16:02:21.829993071Z
+  by: horst.schwarz@joydev.com
 job:
   scope:
   - CALC-0002-B3
   - CALC-0003-FA
-  window: {}
+  window:
+    not_before: 2026-07-22T00:00:00Z
