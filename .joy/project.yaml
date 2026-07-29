@@ -40,6 +40,41 @@ members:
         delegation_verifier: dbbedf312375c3cecb99162c1e9e0a031f589c33de2add50c7a05368646b746e
         delegation_salt: f385131b55cc60ed94ccbd6b1189aa9fcb09245aeab3a87dec2335dc7f4fb133
         created: 2026-07-29T10:32:04.760570825Z
+  philipp@joyint.com:
+    capabilities:
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      jobs: {}
+      create: {}
+      assign: {}
+      manage: {}
+      delete: {}
+    enrollment_verifier: e22da970aab9fefb92e10e7a08e1092f7e057f77130a91c18513d683cb3a3a19:40fa6ca996355b775d9e6f155d431bb8591471614512ff6e2c3cb45cde90dd75
+    attestation:
+      attester: horst.schwarz@joydev.com
+      signed_fields:
+        email: philipp@joyint.com
+        capabilities:
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          jobs: {}
+          create: {}
+          assign: {}
+          manage: {}
+          delete: {}
+        otp_hash: e22da970aab9fefb92e10e7a08e1092f7e057f77130a91c18513d683cb3a3a19:40fa6ca996355b775d9e6f155d431bb8591471614512ff6e2c3cb45cde90dd75
+      signed_at: 2026-07-29T10:37:57.374115936Z
+      signature: 1a3b0764527b2ef8a05d381c7ce7591110b3616d79eea8e0c740f49e79b248a71554fbb713afb0403c34bee0f7aab976f94d73b874a7a3caa33beb553a56960a
 created: 2026-07-25T15:29:55.436372834Z
 platform:
   verify_key: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b26
