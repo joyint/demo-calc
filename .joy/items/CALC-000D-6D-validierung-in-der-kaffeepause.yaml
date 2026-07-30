@@ -5,8 +5,11 @@ status: new
 priority: medium
 capabilities:
 - implement
+effort: 2
 created_by: horst.schwarz@joydev.com
 created: 2026-07-30T06:02:21.857913668Z
-updated: 2026-07-30T06:02:21.857913668Z
+updated: 2026-07-30T06:02:34.369224654Z
 updated_by: horst.schwarz@joydev.com
-history: []
+history:
+- date: 2026-07-30T06:02:34.369224654Z
+  by: horst.schwarz@joydev.com
