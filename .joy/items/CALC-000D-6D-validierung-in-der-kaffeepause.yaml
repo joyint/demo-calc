@@ -1,7 +1,7 @@
 id: CALC-000D-6D
 title: Validierung in der Kaffeepause
 type: task
-status: in-progress
+status: review
 priority: medium
 assignees:
 - member: horst.schwarz@joydev.com
@@ -11,7 +11,7 @@ capabilities:
 effort: 2
 created_by: horst.schwarz@joydev.com
 created: 2026-07-30T06:02:21.857913668Z
-updated: 2026-07-30T06:02:55.106907483Z
+updated: 2026-07-30T06:03:46.208084242Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-30T06:02:34.369224654Z
@@ -21,4 +21,6 @@ history:
 - date: 2026-07-30T06:02:54.157426722Z
   by: horst.schwarz@joydev.com
 - date: 2026-07-30T06:02:55.106907483Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-30T06:03:46.208084242Z
   by: horst.schwarz@joydev.com
