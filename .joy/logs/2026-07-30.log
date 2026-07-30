@@ -4,3 +4,4 @@
 2026-07-30T06:02:54.159Z CALC-000D-6D item.status_changed "new -> open" [horst.schwarz@joydev.com]
 2026-07-30T06:02:55.109Z CALC-000D-6D item.status_changed "open -> in-progress" [horst.schwarz@joydev.com]
 2026-07-30T06:03:46.210Z CALC-000D-6D item.status_changed "in-progress -> review" [horst.schwarz@joydev.com]
+2026-07-30T06:04:19.451Z CALC-000D-6D item.status_changed "review -> closed" [horst.schwarz@joydev.com]
