@@ -11,7 +11,7 @@ capabilities:
 effort: 2
 created_by: horst.schwarz@joydev.com
 created: 2026-07-30T06:02:21.857913668Z
-updated: 2026-07-30T06:04:19.449673024Z
+updated: 2026-07-30T06:05:15.979605356Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-30T06:02:34.369224654Z
@@ -26,3 +26,7 @@ history:
   by: horst.schwarz@joydev.com
 - date: 2026-07-30T06:04:19.449673024Z
   by: horst.schwarz@joydev.com
+comments:
+- author: horst.schwarz@joydev.com
+  date: 2026-07-30T06:05:15.979603716Z
+  text: passt scho fürs erste
