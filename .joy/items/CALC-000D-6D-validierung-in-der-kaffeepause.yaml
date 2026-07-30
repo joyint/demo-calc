@@ -3,13 +3,16 @@ title: Validierung in der Kaffeepause
 type: task
 status: new
 priority: medium
+milestone: CALC-MS-02-77
 capabilities:
 - implement
 effort: 2
 created_by: horst.schwarz@joydev.com
 created: 2026-07-30T06:02:21.857913668Z
-updated: 2026-07-30T06:02:34.369224654Z
+updated: 2026-07-30T06:02:38.161430142Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-30T06:02:34.369224654Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-30T06:02:38.161430142Z
   by: horst.schwarz@joydev.com
