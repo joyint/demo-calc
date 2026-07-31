@@ -13,11 +13,6 @@ created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:39:41.423865408Z
 updated: 2026-07-25T15:47:50.848169465Z
 updated_by: horst.schwarz@joydev.com
-history:
-- date: 2026-07-25T15:40:01.776679290Z
-  by: horst.schwarz@joydev.com
-- date: 2026-07-25T15:47:50.822188375Z
-  by: horst.schwarz@joydev.com
 description: |-
   Steps to reproduce: enter 5/0 and press equals. The app terminates without a message.
 

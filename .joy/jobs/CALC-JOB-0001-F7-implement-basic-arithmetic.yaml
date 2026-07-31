@@ -9,17 +9,6 @@ created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:31:57.832680554Z
 updated: 2026-07-25T16:03:41.003535902Z
 updated_by: horst.schwarz@joydev.com
-history:
-- date: 2026-07-25T16:02:13.558274953Z
-  by: horst.schwarz@joydev.com
-- date: 2026-07-25T16:02:14.458194923Z
-  by: horst.schwarz@joydev.com
-- date: 2026-07-25T16:02:21.829993071Z
-  by: horst.schwarz@joydev.com
-- date: 2026-07-25T16:02:30.296632987Z
-  by: horst.schwarz@joydev.com
-- date: 2026-07-25T16:03:22.934475582Z
-  by: horst.schwarz@joydev.com
 description: Implement a prototype for a first review of the idea.
 job:
   scope:
