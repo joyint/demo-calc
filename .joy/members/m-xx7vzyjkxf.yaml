@@ -1,0 +1,18 @@
+name: vibe
+adapter: vibe
+capabilities:
+- conceive
+- plan
+- design
+- implement
+- test
+- review
+- document
+- jobs
+level: autonomous
+granted:
+  by: horst.schwarz@joydev.com
+  at: 2026-10-10T00:03:50.439334581Z
+  signature: 899d193f65c5fef4b8ad6650a3da82a527d3906daa214394d89bcc60bcaf1e84c179c6af3d0ab0341de6b075934fbd2cc0e7f009893052e82a98dcbd7455f10a
+verify_key: dbbedf312375c3cecb99162c1e9e0a031f589c33de2add50c7a05368646b746e
+updated: 2026-10-10T00:03:50.439627607Z

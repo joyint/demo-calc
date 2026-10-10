@@ -1,0 +1,20 @@
+email: philipp@joyint.com
+capabilities:
+- conceive
+- plan
+- design
+- implement
+- test
+- review
+- document
+- jobs
+- create
+- assign
+- manage
+- delete
+origin:
+  attester: horst.schwarz@joydev.com
+  signed_at: 2026-07-29T10:37:57.374115936Z
+  commit: c720e7c6c4ac394a42c908f64f9a6496fd8755c5
+enrollment_verifier: e22da970aab9fefb92e10e7a08e1092f7e057f77130a91c18513d683cb3a3a19:40fa6ca996355b775d9e6f155d431bb8591471614512ff6e2c3cb45cde90dd75
+updated: 2026-10-10T00:03:50.439627607Z
