@@ -2,7 +2,7 @@ id: CALC-0007-EC
 title: Division by zero crashes the app
 type: bug
 status: in-progress
-priority: medium
+priority: low
 parent: CALC-0001-C9
 assignees:
 - member: horst.schwarz@joydev.com
@@ -11,7 +11,7 @@ capabilities:
 - review
 created_by: horst.schwarz@joydev.com
 created: 2026-07-25T15:39:41.423865408Z
-updated: 2026-10-11T04:57:53.156054632Z
+updated: 2026-10-11T04:57:54.377217659Z
 updated_by: horst.schwarz@joydev.com
 description: |-
   Steps to reproduce: enter 5/0 and press equals. The app terminates without a message.
